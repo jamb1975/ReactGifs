@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Pruebas 2 en <FirstApp />  Debe validar el valor incial a 100 1`] = `undefined`;
+
+exports[`Pruebas 2 en <FirstApp /> Debe hacer match snapshot 1`] = `
+<div>
+  <h1
+    data-testid="text-title"
+  />
+  <p />
+  <p />
+  <p />
+  <code>
+    Counter App
+  </code>
+  <p />
+  <button>
+    +1
+  </button>
+  <button>
+    -1
+  </button>
+  <button
+    aria-label="btn-reset"
+  >
+    Reset
+  </button>
+</div>
+`;
