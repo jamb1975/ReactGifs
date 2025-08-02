@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Tests on <GifExpertApp /> Verificar snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Genesis"
+      src="https://media4.giphy.com/media/v1.Y2lkPTUwZTdiYzA0OG40amYyM3cyYXBha3hxY3BkdHo5c29iNzV5bWhwd203Zm5jbzh3diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhdscFKah6Rva/giphy.gif"
+    />
+    <p>
+      Genesis
+    </p>
+  </div>
+</div>
+`;

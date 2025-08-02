@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Test on <GifExpertApp /> Verificar snapshot0 1`] = `
+<div>
+  <h1>
+    GifExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Buscar gifs"
+      type="text"
+      value=""
+    />
+  </form>
+  <ol>
+    <h3>
+      Genesis
+    </h3>
+    <h2>
+      Cargando...
+    </h2>
+    <div
+      class="card-grid"
+    />
+  </ol>
+</div>
+`;
+
+exports[`Test on <GifExpertApp /> Verificar snapshot0 y que no agregue a categoria si existe 1`] = `
+<div>
+  <h1>
+    GifExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Buscar gifs"
+      type="text"
+      value=""
+    />
+  </form>
+  <ol>
+    <h3>
+      Genesis
+    </h3>
+    <h2>
+      Cargando...
+    </h2>
+    <div
+      class="card-grid"
+    />
+  </ol>
+</div>
+`;
